@@ -25,6 +25,9 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 - **[The Visual Grid](the-grid.md)**
   Understanding the main screen—how to read a week of your life at a glance.
 
+- **[Single Metric View](single-metric-view.md)**
+  View one metric across three weeks instead of all metrics for one week.
+
 ### Adding Context
 
 - **[Notes](notes.md)**

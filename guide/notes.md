@@ -103,4 +103,4 @@ Useful for:
 
 ---
 
-[← Back to Guide](index.md) · [Next: Day Launch & Day End →](day-routines.md)
+[← Single Metric View](single-metric-view.md) · [Back to Guide](index.md) · [Next: Day Launch & Day End →](day-routines.md)

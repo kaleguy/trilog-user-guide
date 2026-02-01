@@ -89,6 +89,12 @@ The grid view is intentionally dense. When 168 hours are visible at once:
 
 The goal isn't to analyze every cell. It's to let your eye catch patterns that sequential views would hide.
 
+## Single Metric View
+
+Want to see more time at once? You can view a single metric (mood, energy, or activity) across three weeks instead of all metrics for one week.
+
+Tap the metric name in the header to switch views. See [Single Metric View](single-metric-view.md) for details.
+
 ---
 
-[← Back to Guide](index.md) · [Next: Notes →](notes.md)
+[← Back to Guide](index.md) · [Next: Single Metric View →](single-metric-view.md)

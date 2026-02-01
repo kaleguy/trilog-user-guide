@@ -45,6 +45,7 @@ New to TriLog? Start with the [User Guide](guide/index.md).
 - [Getting Started](guide/getting-started.md) — First steps with TriLog
 - [Tracking Basics](guide/tracking-basics.md) — Mood, energy, and activities
 - [The Visual Grid](guide/the-grid.md) — Understanding the main screen
+- [Single Metric View](guide/single-metric-view.md) — Three weeks at a glance
 - [Notes](guide/notes.md) — Adding context to your data
 - [Day Launch & Day End](guide/day-routines.md) — Morning and evening routines
 - [Viewing Patterns](guide/viewing-patterns.md) — Metrics, charts, and history
