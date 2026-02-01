@@ -8,7 +8,7 @@ Day Launch is for mornings. It captures how you slept and sets up your day.
 
 Access it from the Add Entry modal by tapping the "Day Launch" tab.
 
-![Day Launch screen](../images/day-launch.png)
+<img src="../images/day-launch.png" alt="Day Launch screen" width="400">
 
 ### Sleep Tracking
 
@@ -45,7 +45,7 @@ Day End is for evenings. It prompts reflection on your day and planning for tomo
 
 Access it from the Add Entry modal by tapping the "Day End" tab.
 
-![Day End screen](../images/day-end.png)
+<img src="../images/day-end.png" alt="Day End screen" width="400">
 
 ### Tomorrow's Top Targets
 
@@ -67,7 +67,7 @@ This is optional. Many people skip it entirely. Others find it valuable for proc
 
 If you've set up daily habits, Day End shows them as checkboxes. Check off what you completed.
 
-![Day End habits](../images/day-end-habits.png)
+<img src="../images/day-end-habits.png" alt="Day End habits" width="400">
 
 ### Wellness Check
 

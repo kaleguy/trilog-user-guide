@@ -27,7 +27,7 @@ Keep tapping to cycle back to the full view.
 
 Shows your mood entries across three weeks. Each column is a day, with mood indicators visible without the activity blocks.
 
-![Mood only view](../images/main-screen-just-mood.png)
+<img src="../images/main-screen-just-mood.png" alt="Mood only view" width="400">
 
 This view helps you see:
 - Which days tend to be better or worse
@@ -38,7 +38,7 @@ This view helps you see:
 
 Shows your energy levels across three weeks.
 
-![Energy only view](../images/main-screen-just-energy.png)
+<img src="../images/main-screen-just-energy.png" alt="Energy only view" width="400">
 
 This view reveals:
 - Your natural energy rhythms
@@ -49,7 +49,7 @@ This view reveals:
 
 Shows your activities across three weeks. The familiar colored blocks, but spanning more time.
 
-![Activity only view](../images/main-screen-just-activity.png)
+<img src="../images/main-screen-just-activity.png" alt="Activity only view" width="400">
 
 This view shows:
 - How you spend your time across weeks
@@ -60,7 +60,7 @@ This view shows:
 
 For even longer perspectives, some metrics support year-long views in the Metrics grid.
 
-![One metric year view](../images/one-metric-year-view.png)
+<img src="../images/one-metric-year-view.png" alt="One metric year view" width="400">
 
 Tap a row header in the Metrics grid to see that metric across an extended time period.
 

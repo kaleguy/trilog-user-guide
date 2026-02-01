@@ -6,7 +6,7 @@ TriLog is fully functional without paying anything. Pro exists for users who wan
 
 Quick Track provides rapid entry logging without opening the full add modal.
 
-![Quick Track](../images/quick-track.png)
+<img src="../images/quick-track.png" alt="Quick Track" width="400">
 
 ### How It Works
 
@@ -26,7 +26,7 @@ Quick Track shines when you want frequent data points without friction:
 - Logging quickly during a busy day
 - Capturing mood shifts as they happen
 
-![Quick Track with entries](../images/quick-track-with-entries.png)
+<img src="../images/quick-track-with-entries.png" alt="Quick Track with entries" width="400">
 
 ---
 
@@ -34,7 +34,7 @@ Quick Track shines when you want frequent data points without friction:
 
 Polling sends periodic notifications asking how you're doing.
 
-![Polling settings](../images/polling.png)
+<img src="../images/polling.png" alt="Polling settings" width="400">
 
 ### How It Works
 
@@ -61,7 +61,7 @@ The notifications are gentle. Ignore them if you're busy. Respond when you can.
 
 A classic 25-minute focus timer integrated with your tracking.
 
-![Pomodoro timer](../images/pomodoro.png)
+<img src="../images/pomodoro.png" alt="Pomodoro timer" width="400">
 
 ### The Technique
 

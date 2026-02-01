@@ -14,7 +14,7 @@ Mood reflects your emotional state. TriLog offers five options:
 
 These categories are deliberately broad. They're not meant to capture every nuance of human emotion—they're meant to show patterns over time.
 
-![Mood selection](../images/main-screen-just-mood.png)
+<img src="../images/main-screen-just-mood.png" alt="Mood selection" width="400">
 
 **Don't overthink it.** Your first instinct is usually correct. If you're torn between two options, either will do. Precision matters less than consistency.
 
@@ -30,7 +30,7 @@ Energy is your sense of physical and mental vitality. Five levels, from depleted
 
 Energy is separate from mood. You can be happy but exhausted after a great party. You can be energized but anxious before a presentation. Tracking both reveals interesting patterns.
 
-![Energy selection](../images/main-screen-just-energy.png)
+<img src="../images/main-screen-just-energy.png" alt="Energy selection" width="400">
 
 ## Activity
 
@@ -49,7 +49,7 @@ Activity records what you're doing. Categories include:
 
 When you switch activities, log the new one. The previous activity extends until the new entry.
 
-![Activity selection](../images/main-screen-just-activity.png)
+<img src="../images/main-screen-just-activity.png" alt="Activity selection" width="400">
 
 ## The Fill Gaps Option
 
@@ -59,7 +59,7 @@ For example: You log "Work" at 9am. At noon, you log "Lunch." Fill Gaps automati
 
 This creates continuous tracking without constant logging. Enable it in the add entry screen.
 
-![Fill gaps option](../images/fill-in-gaps.png)
+<img src="../images/fill-in-gaps.png" alt="Fill gaps option" width="400">
 
 ## Backdating Entries
 

@@ -4,7 +4,7 @@
 
 TriLog displays your entire week on a single screen: mood, energy, and activities mapped hour by hour on a visual grid. Patterns that would take scrolling to notice elsewhere become obvious at a glance. There are no scores, streaks, or badges—just an honest record that grows more valuable over time.
 
-![TriLog main screen](images/main-mood-screen.png)
+<img src="images/main-mood-screen.png" alt="TriLog main screen" width="400">
 
 ## What Makes TriLog Different
 
