@@ -6,7 +6,7 @@ TriLog offers extensive customization. Access Settings through the Menu.
 
 Control how TriLog looks and what information displays.
 
-<img src="../images/settings-appearance.png" alt="Settings appearance" width="400">
+<img src="../images/settings-appearance.png" alt="Settings appearance" width="350">
 
 ### Display Options
 
@@ -33,7 +33,7 @@ If you have an Apple Watch, enable this to display resting heart rate in Day End
 
 TriLog supports light and dark modes.
 
-<img src="../images/light-theme-main-screen.png" alt="Light theme" width="400">
+<img src="../images/light-theme-main-screen.png" alt="Light theme" width="350">
 
 By default, the app follows your system preference. You can also set it manually:
 

@@ -6,7 +6,7 @@ Habits are daily recurring tasks you want to track. Unlike one-time todos, habit
 
 Access Habits from Menu → Extras → Habits.
 
-<img src="../images/habits.png" alt="Habits setup" width="400">
+<img src="../images/habits.png" alt="Habits setup" width="350">
 
 ### Creating a Habit
 
@@ -39,7 +39,7 @@ Check off habits in two places:
 
 The Day End tab shows your habits as checkboxes. Check off what you completed before bed.
 
-<img src="../images/day-end-habits.png" alt="Day End habits" width="400">
+<img src="../images/day-end-habits.png" alt="Day End habits" width="350">
 
 ### Habits Grid View
 

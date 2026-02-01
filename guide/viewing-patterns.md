@@ -6,7 +6,7 @@ TriLog offers multiple ways to review your data. Each view shows different patte
 
 Swipe right from the main chart to reach the Metrics view. This grid shows daily measurements in rows:
 
-<img src="../images/metrics-14.png" alt="Metrics grid" width="400">
+<img src="../images/metrics-14.png" alt="Metrics grid" width="350">
 
 ### What You See
 
@@ -24,7 +24,7 @@ Each column is a day of the week. You see seven days at once.
 
 Tap the settings icon to choose which rows appear:
 
-<img src="../images/metrics-visible-rows-modal.png" alt="Metrics visible rows" width="400">
+<img src="../images/metrics-visible-rows-modal.png" alt="Metrics visible rows" width="350">
 
 Hide metrics you don't track. Show the ones you care about.
 
@@ -38,7 +38,7 @@ Tap any row header to see that metric in more detail—a focused view showing ju
 
 Swipe further right to reach Charts. This view shows how you spend your time.
 
-<img src="../images/charts.png" alt="Charts view" width="400">
+<img src="../images/charts.png" alt="Charts view" width="350">
 
 ### Activity Distribution
 
@@ -58,7 +58,7 @@ Toggle between different visualizations:
 **Bar Chart** — Activities as stacked or grouped bars
 **Pie Chart** — Activities as pie slices showing proportions
 
-<img src="../images/charts-pie.png" alt="Pie chart" width="400">
+<img src="../images/charts-pie.png" alt="Pie chart" width="350">
 
 ### Time Periods
 
@@ -76,7 +76,7 @@ Longer periods show broader patterns; shorter periods show recent detail.
 
 From the Menu, access "Mood Entries" to see a chronological list of all your mood, energy, and activity entries.
 
-<img src="../images/mood-entries.png" alt="Mood entries" width="400">
+<img src="../images/mood-entries.png" alt="Mood entries" width="350">
 
 Each entry shows:
 - Timestamp
@@ -91,7 +91,7 @@ Swipe left on an entry to edit or delete it.
 
 "Day End Entries" (from the Menu) shows your daily reflections—journal entries, goals, and wellness ratings.
 
-<img src="../images/day-end-entries.png" alt="Day End entries" width="400">
+<img src="../images/day-end-entries.png" alt="Day End entries" width="350">
 
 This is useful for reviewing what you wrote, not just what you logged.
 

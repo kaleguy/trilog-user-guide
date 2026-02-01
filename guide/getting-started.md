@@ -12,7 +12,7 @@ TriLog takes under a minute to learn. Here's what you need to know.
 
 That's it. You've logged your first entry.
 
-<img src="../images/add.png" alt="Add entry screen" width="400">
+<img src="../images/add.png" alt="Add entry screen" width="350">
 
 ## The Main Screen
 
@@ -25,7 +25,7 @@ The main screen shows your week as a visual grid:
 
 Swipe left and right to navigate between weeks.
 
-<img src="../images/main-mood-screen.png" alt="Main screen" width="400">
+<img src="../images/main-mood-screen.png" alt="Main screen" width="350">
 
 ## Finding Your Rhythm
 
@@ -43,7 +43,7 @@ Most people settle into a pattern within a week. Don't force it—whatever you'l
 
 New to TriLog? Try Demo Mode to see the app with sample data. Access it from Settings → Demo Mode.
 
-<img src="../images/about-demo.png" alt="Demo mode" width="400">
+<img src="../images/about-demo.png" alt="Demo mode" width="350">
 
 Demo Mode shows what a week of tracking looks like, with pre-populated entries across all features.
 

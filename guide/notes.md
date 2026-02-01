@@ -27,7 +27,7 @@ These patterns aren't visible in a single entry. They emerge from accumulation.
 
 Tap the notes icon on the main screen to see all your notes in a list.
 
-<img src="../images/notes.png" alt="Notes list" width="400">
+<img src="../images/notes.png" alt="Notes list" width="350">
 
 Each note shows:
 - The text you wrote
@@ -67,7 +67,7 @@ Start with **cy** for menstrual cycle tracking:
 
 Long-press the notes icon to access filters. You can show/hide different note types:
 
-<img src="../images/note-long-press.png" alt="Note filtering" width="400">
+<img src="../images/note-long-press.png" alt="Note filtering" width="350">
 
 This helps when you want to review just meals, or just health notes, without other entries cluttering the view.
 

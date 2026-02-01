@@ -4,7 +4,7 @@ The main screen is TriLog's signature feature: an entire week displayed on a sin
 
 ## Anatomy of the Grid
 
-<img src="../images/main-mood-screen.png" alt="Main screen" width="400">
+<img src="../images/main-mood-screen.png" alt="Main screen" width="350">
 
 ### Columns = Days
 
@@ -55,7 +55,7 @@ Toggle moon phases in Settings → Appearance.
 
 TriLog works in both dark and light modes. The app respects your system preference, or you can set it manually in Settings.
 
-<img src="../images/light-theme-main-screen.png" alt="Light theme" width="400">
+<img src="../images/light-theme-main-screen.png" alt="Light theme" width="350">
 
 ## Interacting with the Grid
 
@@ -75,7 +75,7 @@ Swipe right from the main grid to access additional views:
 
 Small dots at the bottom indicate which view you're on. Swipe between them or tap a dot to jump directly.
 
-<img src="../images/app-menu-views.png" alt="Menu views" width="400">
+<img src="../images/app-menu-views.png" alt="Menu views" width="350">
 
 ## Why This Design?
 
