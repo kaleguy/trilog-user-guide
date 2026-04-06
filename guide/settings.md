@@ -76,6 +76,18 @@ Deletes all entries, notes, and settings. Use with caution—this cannot be undo
 
 If you've purchased Pro on another device, use this to restore your purchase.
 
+## Scheduling
+
+Set reminders at specific times of day to check in and log your mood. Access Scheduling from Menu → Extras → Scheduling (···).
+
+<img src="../images/scheduling.png" alt="Scheduling reminders" width="350">
+
+This is a straightforward way to build a consistent logging habit. Set the times that make sense for your routine — morning, lunch, evening — and TriLog will nudge you.
+
+## About
+
+The About dialog (Menu → About) shows version information and includes a **"Replay Onboarding"** button. Tap it to re-experience the introductory walkthrough and guided demo at any time.
+
 ## Pro
 
 Access Pro features and subscription management.
@@ -101,6 +113,8 @@ See [Pro Features](pro-features.md) for details on what Pro includes.
 | Heart Rate | Appearance | RHR display (Pro) |
 | iCloud Backup | Backup | Automatic backup |
 | Export | Backup | Manual backup |
+| Scheduling | Extras | Check-in reminders |
+| Replay Onboarding | About | Re-run onboarding walkthrough |
 
 ---
 

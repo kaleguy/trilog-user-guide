@@ -2,6 +2,12 @@
 
 TriLog takes under a minute to learn. Here's what you need to know.
 
+## Onboarding
+
+When you first launch TriLog, a multi-slide onboarding walkthrough introduces the core ideas: what you'll track, why it matters, and how the visual grid works. After the walkthrough, you'll accept the user agreement, then enter a guided demo mode with coach marks that highlight key features.
+
+If you skip the onboarding, an alert lets you know you can replay it later from the About dialog (Menu → About → "Replay Onboarding").
+
 ## Your First Entry
 
 1. **Tap the + button** at the bottom of the screen
@@ -12,7 +18,7 @@ TriLog takes under a minute to learn. Here's what you need to know.
 
 That's it. You've logged your first entry.
 
-<img src="../images/add.png" alt="Add entry screen" width="350">
+<img src="../images/add-dialog.png" alt="Add entry dialog" width="350">
 
 ## The Main Screen
 
@@ -23,9 +29,15 @@ The main screen shows your week as a visual grid:
 - **Colored blocks** show your activities
 - **Small indicators** show mood and energy
 
-Swipe left and right to navigate between weeks.
+Before you've logged anything, the grid starts empty:
 
-<img src="../images/main-mood-screen.png" alt="Main screen" width="350">
+<img src="../images/no-entries.png" alt="Empty chart" width="350">
+
+After your first entry, data starts appearing on the grid:
+
+<img src="../images/one-set-of-entries.png" alt="First entry on the chart" width="350">
+
+Swipe left and right to navigate between weeks.
 
 ## Finding Your Rhythm
 

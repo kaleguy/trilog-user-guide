@@ -6,7 +6,7 @@ Habits are daily recurring tasks you want to track. Unlike one-time todos, habit
 
 Access Habits from Menu → Extras → Habits.
 
-<img src="../images/habits.png" alt="Habits setup" width="350">
+<img src="../images/habits.png" alt="Habits view" width="350">
 
 ### Creating a Habit
 

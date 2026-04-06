@@ -90,6 +90,58 @@ Completed Pomodoro sessions integrate with your TriLog data. See how focused wor
 
 ---
 
+## Screen Time
+
+Screen Time shows your app usage alongside mood, energy, and activities on a single chart. This makes it easy to spot how device usage relates to how you feel.
+
+<img src="../images/screentime-menu.png" alt="Screen Time menu" width="350">
+
+### Display Modes
+
+Screen Time offers multiple display modes so you can compare patterns from different angles:
+
+**Mood & Energy** — Overlay screen time with your mood and energy trends to see correlations.
+
+<img src="../images/screentime-mood-energy.png" alt="Screen Time with mood and energy" width="350">
+
+**Activity** — See screen time alongside your activity data to understand how device usage fits into your day.
+
+<img src="../images/screentime-activity.png" alt="Screen Time with activity" width="350">
+
+### What You Might Notice
+
+- High screen time in the evening correlating with worse sleep quality
+- Social media spikes during low-energy periods
+- Reduced device usage on days with more exercise or social time
+
+Screen Time doesn't judge — it just puts the data side by side so patterns become visible.
+
+---
+
+## Day View with Sun Clock
+
+Day View shows today's entries alongside an astronomical sun clock visualization. The sun clock displays sunrise, sunset, and the current position of the sun, giving your daily data a natural time context.
+
+This is a Pro feature that adds a different perspective to your day — your logged entries mapped against the rhythm of daylight.
+
+---
+
+## Scheduling
+
+Set reminders at specific times of day to check in. Access Scheduling from Menu → Extras (···).
+
+<img src="../images/scheduling.png" alt="Scheduling" width="350">
+
+Pick the times that match your routine — morning, midday, evening — and TriLog will send a notification prompting you to log. This pairs well with Quick Track for fast responses to reminders.
+
+---
+
+## Siri Input
+
+Log entries hands-free using Siri. Say something like "Log my mood in TriLog" to create an entry without opening the app. Useful when you're on the go or want minimal friction.
+
+---
+
 ## Custom Trackers
 
 Track anything not covered by the default options.

@@ -52,7 +52,7 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 ### Pro Features
 
 - **[Pro Features](pro-features.md)**
-  Quick Track, Polling, Pomodoro timer, Custom Trackers, and more.
+  Quick Track, Polling, Screen Time, Pomodoro timer, Custom Trackers, and more.
 
 ### Philosophy
 
@@ -71,6 +71,7 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 | See metrics grid | Swipe right from the main chart |
 | Access settings | Menu → Settings |
 | Set up habits | Menu → Extras → Habits |
+| Set check-in reminders | Menu → Extras → Scheduling |
 | Backup your data | Menu → Settings → Backup |
 
 ---

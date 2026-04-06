@@ -4,7 +4,7 @@ The main screen is TriLog's signature feature: an entire week displayed on a sin
 
 ## Anatomy of the Grid
 
-<img src="../images/main-mood-screen.png" alt="Main screen" width="350">
+<img src="../images/populated.png" alt="Populated weekly grid" width="350">
 
 ### Columns = Days
 
@@ -88,6 +88,12 @@ The grid view is intentionally dense. When 168 hours are visible at once:
 - **Gaps stand out.** Missing data is visible, prompting you to fill it.
 
 The goal isn't to analyze every cell. It's to let your eye catch patterns that sequential views would hide.
+
+Here's what the grid looks like before any entries, and then as data accumulates:
+
+<img src="../images/no-entries.png" alt="Empty grid" width="350">
+
+<img src="../images/second-set-of-entries.png" alt="Grid with multiple entries" width="350">
 
 ## Single Metric View
 

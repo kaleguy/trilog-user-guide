@@ -6,6 +6,12 @@ TriLog displays your entire week on a single screen: mood, energy, and activitie
 
 <img src="images/main-mood-screen.png" alt="TriLog main screen" width="350">
 
+## Your Data Is Missing Something
+
+You already track steps, sleep, screen time, and heart rate. But none of that tells you how you actually *felt*. TriLog fills the gap — three quick inputs (mood, energy, activity) that turn your day into something you can see, compare, and learn from.
+
+**What gets measured gets managed.** And what gets *visualized* gets understood.
+
 ## What Makes TriLog Different
 
 Most mood trackers show you one day at a time. You tap a rating, maybe write a note, and the day disappears into a list you'll rarely revisit.
@@ -38,6 +44,8 @@ TriLog is built on a few beliefs:
 
 ## Getting Started
 
+When you first launch TriLog, a short onboarding walkthrough introduces the core concepts — what you'll track, why it matters, and how the visual grid works. After the walkthrough, a guided demo mode highlights key features with coach marks so you can explore at your own pace.
+
 New to TriLog? Start with the [User Guide](guide/index.md).
 
 ## Guide Contents
@@ -51,7 +59,7 @@ New to TriLog? Start with the [User Guide](guide/index.md).
 - [Viewing Patterns](guide/viewing-patterns.md) — Metrics, charts, and history
 - [Habits](guide/habits.md) — Daily habit tracking
 - [Settings](guide/settings.md) — Customization and backup
-- [Pro Features](guide/pro-features.md) — Quick Track, Polling, Pomodoro, and more
+- [Pro Features](guide/pro-features.md) — Quick Track, Polling, Screen Time, Pomodoro, and more
 - [Using TriLog Long-Term](guide/long-term.md) — Building a sustainable practice
 
 ## Links

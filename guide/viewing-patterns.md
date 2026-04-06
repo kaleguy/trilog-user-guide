@@ -6,7 +6,7 @@ TriLog offers multiple ways to review your data. Each view shows different patte
 
 Swipe right from the main chart to reach the Metrics view. This grid shows daily measurements in rows:
 
-<img src="../images/metrics-14.png" alt="Metrics grid" width="350">
+<img src="../images/metrics.png" alt="Metrics grid" width="350">
 
 ### What You See
 

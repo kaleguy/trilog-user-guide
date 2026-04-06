@@ -8,7 +8,7 @@ Day Launch is for mornings. It captures how you slept and sets up your day.
 
 Access it from the Add Entry modal by tapping the "Day Launch" tab.
 
-<img src="../images/day-launch.png" alt="Day Launch screen" width="350">
+<img src="../images/day-launch.png" alt="Day Launch morning routine" width="350">
 
 ### Sleep Tracking
 
@@ -45,7 +45,7 @@ Day End is for evenings. It prompts reflection on your day and planning for tomo
 
 Access it from the Add Entry modal by tapping the "Day End" tab.
 
-<img src="../images/day-end.png" alt="Day End screen" width="350">
+<img src="../images/day-end.png" alt="Day End evening routine" width="350">
 
 ### Tomorrow's Top Targets
 
