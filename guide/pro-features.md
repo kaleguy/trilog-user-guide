@@ -142,38 +142,68 @@ Log entries hands-free using Siri. Say something like "Log my mood in TriLog" to
 
 ---
 
-## Custom Trackers
+## Trackers
 
-Track anything not covered by the default options.
+Track anything beyond mood and energy — symptoms, supplements, medications, ratings, habits. The point is finding correlations: *"did my energy drop on the days I forgot magnesium?"*
+
+There are two kinds of trackers, designed for different rhythms:
+
+### Day Trackers
+
+One entry per day, edited from the Day-End view. Use for things you assess once a day at the end of it: daily mood, sleep quality, pain level, whether you took your meds.
+
+**Day tracker types:**
+
+- **Text** — A single end-of-day note. Grid shows a blue square for any day with a note.
+- **Rating** — A 0–5 rating. Grid shows the number.
+- **Traffic Light** — A 1–5 status shown as a colored square (red → green).
+- **Itemized List** — Define a fixed list (e.g., "morning supplement stack"); mark each day yes/no for completion.
+- **Toggle** — Stateful on/off flag. Stays on until you flip it off — perfect for "on antibiotics" or "on vacation."
+
+### Event Trackers
+
+Logged many times a day, each timestamped. Use for things that happen at moments: caffeine doses, headache flares, brain-fog ratings.
+
+The grid always shows a number per day:
+- **Sum** → adds the values you logged
+- **Average** → averages them
+- Every other type → counts the entries
+
+**Event tracker types:**
+
+- **Text** — A free-form note. Grid shows the count.
+- **Number** — Each entry is a number. Pick **Sum** (cumulative — caffeine mg, water oz) or **Average** (snapshot ratings averaged).
+- **Rating** — A 0–5 rating logged through the day. Grid shows the count. Log a 0 to mark "resolved" — e.g., a headache going away.
+- **Traffic Light** — A 1–5 rating shorthand. Grid shows the count.
+- **Itemized List** — A fixed list (e.g., a morning supplement stack). Each entry = "took the whole list."
+
+### Three Ways to Log
+
+1. **Type a note.** Start any journal note with `t key value note` (e.g., `t caf 100 espresso`). Works from Siri voice entries too.
+2. **Use the Tracker tab** on the Add (+) dialog — pick a tracker from the list and fill in the type-specific input. No key to remember. Enable in Settings → Appearance → "Tracker Input on Add."
+3. **From the grid.** Tap any cell in the Trackers grid to view, edit, or add entries for that day.
 
 ### Creating a Tracker
 
 1. Open Menu → Extras → Trackers
-2. Tap "Add Tracker"
-3. Enter a key (internal name) and label (display name)
-4. Choose a type
-5. Save
+2. Tap the **+** button
+3. Pick **Day** or **Event** tracker
+4. Enter a label (display name)
+5. Pick a category (general, symptom, event, medicine, supplement) and a type
+6. Save
 
-### Tracker Types
-
-**Text** — Records presence/absence. Any entry with this key shows a blue square.
-
-**Count** — Counts occurrences. Multiple entries with this key show the total count.
-
-**Sum** — Sums numbers. Entries like "water 3" and "water 2" show "5".
-
-**Traffic Light** — Shows status as color. Enter 1-5; displays as red (1) through green (5).
-
-### Example Trackers
-
-- **Water intake** (Sum) — Track glasses of water
-- **Medication** (Text) — Did you take it today?
-- **Pain level** (Traffic Light) — Quick status indicator
-- **Coffee** (Count) — How many cups?
+For event trackers, you'll also pick a short key (e.g., `caf` for caffeine) used in the freeform text format. Day trackers don't need a key — they're never logged as notes.
 
 ### Viewing Trackers
 
-Custom trackers appear in the Metrics grid and have their own Trackers grid view.
+The dedicated Trackers grid (enable in Settings → Appearance → Trackers View) shows every tracker across days side-by-side. Day Trackers appear on top, Event Trackers below. Toggle between 7- and 21-day views with the toolbar button. Tap any cell to view, edit, or add entries.
+
+### Example Setups
+
+- **Headaches (day, Traffic Light)** + **Headaches (event, Rating)** — daily summary plus per-occurrence severity. Log a 0 when the headache resolves.
+- **Caffeine mg (event, Number → Sum)** — `t caf 100`, `t caf 50` — grid shows the day's total.
+- **Morning Stack (day, Itemized List)** — list out your vitamins/supplements once; mark each day yes/no for taking them.
+- **On Antibiotics (day, Toggle)** — flip on at start of course, off at the end; grid carries the state forward across days.
 
 ---
 

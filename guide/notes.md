@@ -63,6 +63,16 @@ Start with **cy** for menstrual cycle tracking:
 - `cy day 14`
 - `cy cramps`
 
+### Journal Notes
+Start with **j** (or **journal**) for journal entries:
+- `j Good talk with Mom about the trip`
+- `j Bad anxiety today — work meeting tomorrow`
+- `journal Feeling on top of things this week`
+
+Journal entries get their own dedicated **Journal** view (accessed from the Notes menu), where they combine with your Day-End reflections into one scrollable timeline. You can attach photos and export the full journal as a ZIP archive.
+
+This makes the journal feature work as a complete day-by-day diary that lives alongside — but separate from — your mood, energy, and activity data.
+
 ## Filtering Notes
 
 Long-press the notes icon to access filters. You can show/hide different note types:

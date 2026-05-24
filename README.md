@@ -1,8 +1,10 @@
 # TriLog
 
-**A visual journal for mood, energy, and daily life.**
+**A visual dashboard for mood, energy, and daily life.**
 
 TriLog displays your entire week on a single screen: mood, energy, and activities mapped hour by hour on a visual grid. Patterns that would take scrolling to notice elsewhere become obvious at a glance. There are no scores, streaks, or badges—just an honest record that grows more valuable over time.
+
+The core experience — mood, energy, activity, notes, journal, daily routines — is **free forever**. No ads, no accounts, no tracking. Your data lives on your device and (if you choose) your private iCloud. TriLog Pro adds optional power-user features (Trackers, Apple Health metrics, Quick Track, Pomodoro, Siri voice logging) but never gates the core.
 
 <img src="images/main-mood-screen.png" alt="TriLog main screen" width="350">
 

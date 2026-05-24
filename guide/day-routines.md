@@ -27,6 +27,12 @@ This creates a sleep record you can correlate with your day's mood and energy. O
 
 Day Launch shows the goals you set the previous evening. This creates accountability—you see what you intended to do.
 
+### Wake Up (Free)
+
+A single-tap **Wake Up** button on Day Launch logs an "Other" activity at the current time. Use it as the morning bookend that pairs with **Log Sleep** at Day End — together they anchor your day so the chart shows a clean sleep → awake transition without you having to dig into the Add dialog.
+
+The button auto-disables once any non-sleep activity is logged that day (so you know wake-up is already marked).
+
 ### Morning Routine (Pro)
 
 Pro users can set up a morning routine checklist. Common items:
@@ -78,6 +84,12 @@ Day End can include wellness assessments—simple ratings of how various aspects
 If you have an Apple Watch or compatible device, Day End can display your resting heart rate. This metric often correlates with recovery, stress, and overall health.
 
 Enable in Settings → Appearance → Resting Heart Rate.
+
+### Day Trackers (Pro)
+
+If you've enabled the Trackers feature, the Day-End view shows a **Day Trackers** section listing each of your day trackers (mood ratings, traffic-light symptoms, on/off flags, etc.). Tap a row to set or update today's value — the editor matches the tracker's type (0–5 picker, red/yellow/green picker, on/off toggle).
+
+One entry per day max; saving replaces that day's value. See [Trackers](pro-features.md#trackers) for full details.
 
 ---
 
