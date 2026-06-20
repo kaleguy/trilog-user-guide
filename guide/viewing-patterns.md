@@ -70,6 +70,47 @@ Longer periods show broader patterns; shorter periods show recent detail.
 
 ---
 
+## Ratings Charts
+
+Swipe past Charts to reach Ratings Charts. This view shows your daily subjective ratings — Mood, Energy, Thrive, and a calculated Energy Events score — as two side-by-side line charts, each covering four weeks (28 days, Sunday to Saturday).
+
+### What You See
+
+Two vertical landscape charts:
+
+- **Left chart** — the older four-week period
+- **Right chart** — the more recent four-week period
+
+Each chart has a 0–5 y-axis on both sides, with day labels along the bottom.
+
+<img src="../images/ratings-all.png" alt="Ratings Charts with all ratings visible" width="400">
+
+### Four Toggles
+
+The bottom bar has two rows of toggles:
+
+**Row 1:**
+- **Mood** — Stacked vertical bars per day, proportional to your mood distribution (upset, anxious, sad, neutral, happy). Each bar fills the full chart height so you can see the mood mix at a glance.
+- **Thrive** — Your daily "on" rating (1–5) — how present or aligned you felt. Shown as open green rings connected by a green line.
+
+**Row 2:**
+- **Day Energy** — The 1–5 energy rating you enter as a daily summary. Colored dots connected by a gray line, from dark red (1) to bright yellow (5).
+- **Energy Events** — A calculated weighted energy score that combines your individual energy entries with sleep activity throughout the day. Sleep hours count as 0. Waking hours use the most recent energy level (last observation carried forward). Hours before your first energy entry borrow that first level. The score is the average of all 24 hourly values, so it reflects both energy intensity and sleep duration.
+
+<img src="../images/ratings-energy-events.png" alt="Energy Events score" width="400">
+
+### Tooltips
+
+Tap anywhere on a chart to select the nearest day. A tooltip appears showing the date, Energy, Thrive, and Energy Events score. Tap "View Notes" to jump to the Notes by Day modal for that date. Tap the tooltip or the same day again to dismiss it.
+
+### Navigation
+
+Use the arrows at the top to move back and forward by four weeks. The date range label shows the full eight-week span covered by both charts.
+
+Enable in **Settings → Appearance → Ratings Charts View** (on by default).
+
+---
+
 ## Entry History
 
 ### Mood Entries List
