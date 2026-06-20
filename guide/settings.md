@@ -90,7 +90,12 @@ The About dialog (Menu → About) shows version information and includes a **"Re
 
 ## Pro
 
-Access Pro features and subscription management.
+Access Pro features and subscription management from **Settings → Account** or **Menu → Upgrade to Pro**.
+
+- **Annual** — $59.99/year after 30-day free trial
+- **Monthly** — $7.99/month after 30-day free trial
+- **Restore Purchases** — if you subscribed on another device
+- **Pro Setup** — Menu → Extras → Pro Setup (guided tracker and view setup)
 
 See [Pro Features](pro-features.md) for details on what Pro includes.
 

@@ -72,6 +72,7 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 | Access settings | Menu → Settings |
 | Set up habits | Menu → Extras → Habits |
 | Set check-in reminders | Menu → Extras → Scheduling |
+| Set up Pro trackers | Menu → Extras → Pro Setup (Pro) |
 | Backup your data | Menu → Settings → Backup |
 
 ---

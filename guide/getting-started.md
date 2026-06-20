@@ -53,11 +53,26 @@ Most people settle into a pattern within a week. Don't force it—whatever you'l
 
 ## Demo Mode
 
-New to TriLog? Try Demo Mode to see the app with sample data. Access it from Settings → Demo Mode.
+New to TriLog? Try **Demo Mode** to preview the app — including Pro features — with realistic sample data. Access it from **Menu → About → Try Demo**.
 
 <img src="../images/about-demo.png" alt="Demo mode" width="350">
 
-Demo Mode shows what a week of tracking looks like, with pre-populated entries across all features.
+Demo Mode is **not** the same as the Pro free trial. Demo loads fake entries that are not saved; the trial unlocks real Pro features on your own data when you subscribe.
+
+Demo Mode shows what a week of tracking looks like, with pre-populated entries across mood, energy, activities, trackers, and habits. An **Exit** button on the demo banner returns you to your real (empty) data.
+
+## Pro Setup (after subscribing)
+
+When you upgrade or restore Pro, a skippable **Pro Setup** wizard opens once automatically. You can also reopen it anytime from **Menu → Extras → Pro Setup**.
+
+The wizard walks through:
+1. What Pro unlocks
+2. Optional tracker templates (Headache, Focus, Sleep quality, Caffeine, Medication taken, Energy crash)
+3. Quick Track and Polling
+4. View toggles (Trackers, Day Screen, Screen Time)
+5. Other Pro tools (Pomodoro, Siri, Customize, and more)
+
+Each step can be skipped. Nothing is locked behind completing the wizard.
 
 ## What's Next
 

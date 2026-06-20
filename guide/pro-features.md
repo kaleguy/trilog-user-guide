@@ -250,9 +250,36 @@ Resting heart rate often indicates:
 
 ---
 
+## Pro Setup
+
+After you subscribe or restore Pro, TriLog opens a skippable setup wizard once. Reopen it anytime from **Menu → Extras → Pro Setup**.
+
+### Steps
+
+1. **Intro** — overview of Pro features
+2. **Trackers** — pick optional templates or skip:
+   - Headache (day rating)
+   - Focus (day rating)
+   - Sleep quality (day rating)
+   - Caffeine (event count)
+   - Medication taken (day checkbox)
+   - Energy crash (day traffic light)
+3. **Quick Track** — one-tap logging from the bottom bar and optional Polling
+4. **Views** — turn on Trackers View, Day Screen, and Screen Time View
+5. **More tools** — Pomodoro, Siri Shortcuts, Customize, Workouts, and related Pro tools
+6. **Done**
+
+Each step has an expandable **Learn more** section. Skip any step or the whole wizard — configure everything later in Settings and the menu.
+
+---
+
 ## About Pro
 
 Pro is a subscription that supports TriLog's development. The free version is complete and will remain so.
+
+**Pricing:** **$59.99/year** or **$7.99/month**, each with a **30-day free trial** for new subscribers. The Upgrade screen (Menu → Upgrade to Pro, or Settings → Account) shows the trial and renewal price before you confirm. Cancel anytime in iOS Settings → Apple ID → Subscriptions.
+
+**Demo Mode** (About → Try Demo) lets you preview Pro with sample data without starting a subscription.
 
 If TriLog becomes something you rely on, Pro ensures it stays available and keeps improving.
 
