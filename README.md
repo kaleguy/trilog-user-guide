@@ -1,8 +1,8 @@
 # TriLog
 
-**A personal data logger for mood, energy, focus, symptoms, and daily life** — the subjective signals fitness apps and mood-only journals tend to miss.
+**Log what no sensor can see. Line it up with everything else.**
 
-TriLog displays your entire week on a single screen: mood, energy, and activities mapped hour by hour on a visual grid. Patterns that would take scrolling to notice elsewhere become obvious at a glance. There are no scores, streaks, or badges—just an honest record that grows more valuable over time.
+TriLog is a fast personal data logger for subjective experience — mood, energy, focus, symptoms, how your day actually felt. It also pulls in activities, notes, weather, pollen, Apple Health, and more, and puts it all on one dense visual grid: mood, energy, and activities mapped hour by hour, a whole week on one screen. Patterns that would take scrolling to notice elsewhere become obvious at a glance. There are no scores, streaks, or badges—just an honest record that grows more valuable over time.
 
 The core experience — mood, energy, activity, notes, journal, daily routines — is **free forever**. No ads, no accounts, no tracking. Your data lives on your device and (if you choose) your private iCloud. TriLog Pro adds optional power-user features (Trackers, Apple Health metrics, Quick Track, Pomodoro, Siri voice logging) with a **30-day free trial**, then **$59.99/year** or **$7.99/month** — but never gates the core.
 
@@ -10,7 +10,9 @@ The core experience — mood, energy, activity, notes, journal, daily routines �
 
 ## Your Data Is Missing Something
 
-You already track steps, sleep, screen time, and heart rate. But none of that tells you how you actually *felt*. TriLog fills the gap — three quick inputs (mood, energy, activity) that turn your day into something you can see, compare, and learn from.
+You already track steps, sleep, screen time, and heart rate. But none of that tells you how you actually *felt*. And even when you do log mood or symptoms somewhere, it's rarely on the same timeline as the rest — scattered across Notes, a mood app, and your watch.
+
+TriLog fills both gaps: three quick taps for subjective experience, then everything on one clock — inside data and outside context together — so you can compare and learn from what actually lines up.
 
 **What gets measured gets managed.** And what gets *visualized* gets understood.
 
@@ -18,9 +20,9 @@ You already track steps, sleep, screen time, and heart rate. But none of that te
 
 Most mood trackers show you one day at a time. You tap a rating, maybe write a note, and the day disappears into a list you'll rarely revisit.
 
-TriLog takes a different approach. The main screen shows seven days of your life—168 hours—in a single view. Activities appear as colored blocks. Mood and energy show as small indicators. Weather, moon phases, and other data layer on top.
+TriLog takes a different approach. The main screen shows seven days of your life—168 hours—in a single view. Activities appear as colored blocks. Mood and energy show as small indicators. Weather, moon phases, pollen, and Apple Health metrics layer on the same grid.
 
-This density is intentional. When you can see a week at once, patterns become visible that you'd never notice scrolling through individual entries. You might see that your mood dips every Wednesday afternoon, or that exercise consistently precedes better evenings, or that full moons correlate with restless nights.
+This density is intentional. When subjective experience and external context share one timeline, patterns become visible that you'd never notice scrolling through individual entries or switching between apps. You might see that your mood dips every Wednesday afternoon, that exercise consistently precedes better evenings, or that barometric pressure lines up with headaches you've been logging.
 
 ## The Three Signals
 
