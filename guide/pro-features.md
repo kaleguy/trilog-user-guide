@@ -207,6 +207,37 @@ The dedicated Trackers grid (enable in Settings → Appearance → Trackers View
 
 ---
 
+## Intake
+
+Log what you consume with structured amounts — coffee, tea, water, vitamins, medications, alcohol, and more. Intake events are timestamped and stored separately from notes, so you get a clean daily list you can compare with mood and energy.
+
+**Enable:** Settings → Appearance → **Intake Tab on Add** (Pro).
+
+<img src="../images/add-intake.png" alt="Add dialog Intake tab" width="350">
+
+### Intake Library
+
+Define your catalog once in **Menu → Extras → Intake Library**. Items can be **single** (name + default amount + unit) or **list** (a supplement stack you take as one checkmark). Grouped by category: Caffeine, Vitamins/Supplements, Medication, Alcohol, Other.
+
+<img src="../images/intake-library.png" alt="Intake Library" width="350">
+
+### Logging
+
+- **Add (+) dialog → Intake tab** — pick an item, set quantity, tap **Add Intake** (saves immediately; add multiple items without closing the dialog).
+- **Day End → Day Intake** — quick log and review alongside Day Trackers.
+
+<img src="../images/day-end-with-intake.png" alt="Day End with Day Intake" width="350">
+
+### Review
+
+**Menu → Entries → Intake** — all intake events grouped by day.
+
+<img src="../images/intake-entries.png" alt="Intake Entries list" width="350">
+
+See [Intake](intake.md) for the full guide (item types, defaults, intake vs trackers).
+
+---
+
 ## Morning Routine (Pro)
 
 A customizable checklist for your morning routine, displayed in Day Launch.
@@ -266,7 +297,7 @@ After you subscribe or restore Pro, TriLog opens a skippable setup wizard once. 
    - Energy crash (day traffic light)
 3. **Quick Track** — one-tap logging from the bottom bar and optional Polling
 4. **Views** — turn on Trackers View, Day Screen, and Screen Time View
-5. **More tools** — Pomodoro, Siri Shortcuts, Customize, Workouts, and related Pro tools
+5. **More tools** — Intake, Pomodoro, Siri Shortcuts, Customize, Workouts, and related Pro tools
 6. **Done**
 
 Each step has an expandable **Learn more** section. Skip any step or the whole wizard — configure everything later in Settings and the menu.

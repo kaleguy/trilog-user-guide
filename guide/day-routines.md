@@ -91,6 +91,16 @@ If you've enabled the Trackers feature, the Day-End view shows a **Day Trackers*
 
 One entry per day max; saving replaces that day's value. See [Trackers](pro-features.md#trackers) for full details.
 
+### Day Intake (Pro)
+
+When **Intake Tab on Add** is enabled in Settings, Day End also shows a **Day Intake** section in the same card as Day Trackers. Log caffeine, vitamins, medications, water, and other consumables with structured amounts — separate from freeform notes or tracker shorthand.
+
+<img src="../images/day-end-with-intake.png" alt="Day End with Day Trackers and Day Intake" width="350">
+
+Pick an item from your Intake Library, set the quantity, and save. Today's logged intake appears in the section so you can review or delete entries. You can also log from the Add dialog's **Intake** tab anytime during the day.
+
+See [Intake](intake.md) for the full library setup, logging flow, and how intake differs from event trackers.
+
 ---
 
 ## Using Day Launch & Day End

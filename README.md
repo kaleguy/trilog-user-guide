@@ -4,7 +4,7 @@
 
 TriLog is a fast personal data logger for subjective experience — mood, energy, focus, symptoms, how your day actually felt. It also pulls in activities, notes, weather, pollen, Apple Health, and more, and puts it all on one dense visual grid: mood, energy, and activities mapped hour by hour, a whole week on one screen. Patterns that would take scrolling to notice elsewhere become obvious at a glance. There are no scores, streaks, or badges—just an honest record that grows more valuable over time.
 
-The core experience — mood, energy, activity, notes, journal, daily routines — is **free forever**. No ads, no accounts, no tracking. Your data lives on your device and (if you choose) your private iCloud. TriLog Pro adds optional power-user features (Trackers, Apple Health metrics, Quick Track, Pomodoro, Siri voice logging) with a **30-day free trial**, then **$59.99/year** or **$7.99/month** — but never gates the core.
+The core experience — mood, energy, activity, notes, journal, daily routines — is **free forever**. No ads, no accounts, no tracking. Your data lives on your device and (if you choose) your private iCloud. TriLog Pro adds optional power-user features (Trackers, Intake, Apple Health metrics, Quick Track, Pomodoro, Siri voice logging) with a **30-day free trial**, then **$59.99/year** or **$7.99/month** — but never gates the core.
 
 <img src="images/main-mood-screen.png" alt="TriLog main screen" width="350">
 
@@ -63,7 +63,8 @@ New to TriLog? Start with the [User Guide](guide/index.md).
 - [Viewing Patterns](guide/viewing-patterns.md) — Metrics, charts, ratings, and history
 - [Habits](guide/habits.md) — Daily habit tracking
 - [Settings](guide/settings.md) — Customization and backup
-- [Pro Features](guide/pro-features.md) — Quick Track, Polling, Screen Time, Pomodoro, and more
+- [Pro Features](guide/pro-features.md) — Quick Track, Polling, Screen Time, Intake, Pomodoro, and more
+- [Intake](guide/intake.md) — Log caffeine, supplements, medications with structured amounts (Pro)
 - [Using TriLog Long-Term](guide/long-term.md) — Building a sustainable practice
 
 ## Links

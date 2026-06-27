@@ -52,7 +52,10 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 ### Pro Features
 
 - **[Pro Features](pro-features.md)**
-  Quick Track, Polling, Screen Time, Pomodoro timer, Custom Trackers, and more.
+  Quick Track, Polling, Screen Time, Intake, Pomodoro timer, Custom Trackers, and more.
+
+- **[Intake](intake.md)** (Pro)
+  Log caffeine, supplements, medications, and more with structured amounts. Intake Library, Add dialog tab, Day End section, and entry history.
 
 ### Philosophy
 
@@ -73,6 +76,9 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 | Set up habits | Menu → Extras → Habits |
 | Set check-in reminders | Menu → Extras → Scheduling |
 | Set up Pro trackers | Menu → Extras → Pro Setup (Pro) |
+| Log intake (Pro) | Add (+) → Intake tab, or Day End → Day Intake |
+| Manage intake items | Menu → Extras → Intake Library (Pro) |
+| Review intake history | Menu → Entries → Intake (Pro) |
 | Backup your data | Menu → Settings → Backup |
 
 ---
