@@ -44,7 +44,9 @@ Your daily subjective ratings — Mood, Energy, Thrive, and a calculated **Energ
 
 Tap a day for a tooltip with Energy, Thrive, and Energy Events. **View Notes** jumps to that day's notes. Use the arrows at the top to move back and forward by four weeks.
 
-<img src="../images/analysis/day-ratings-with-cycles.png" alt="Day Ratings Chart with Mood, Energy, Thrive, and Energy Events enabled" width="400">
+<p align="center">
+  <img src="../images/analysis/day-ratings-with-cycles.png" alt="Day Ratings Chart with Mood, Energy, Thrive, and Energy Events enabled" width="860">
+</p>
 
 The Energy Events score is also available as a row in the Metrics Grid (off by default). Enable it in the grid wrench → Measurements.
 
@@ -54,7 +56,9 @@ The Energy Events score is also available as a row in the Metrics Grid (off by d
 
 The same Day Ratings chart with your **menstrual cycle** overlaid as colored bands (requires cycle tracking — log with `cy m` / `cy -m` prefixes or Menu → Extras → Cycles). Useful for spotting energy and mood shifts across your cycle.
 
-<img src="../images/analysis/day-energy-vs-cycles.png" alt="Day Ratings with cycle bands and Day Energy only" width="400">
+<p align="center">
+  <img src="../images/analysis/day-energy-vs-cycles.png" alt="Day Ratings with cycle bands and Day Energy only" width="860">
+</p>
 
 Toggle which ratings appear — e.g. show just **Day Energy** against cycle bands to isolate one signal.
 
