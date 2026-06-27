@@ -76,7 +76,7 @@ Swipe horizontally from the main grid to access additional **swipeable views**:
 - **Habits** — daily habit completions
 - **Screen Time** (Pro) — hourly device usage
 
-Charts and ratings charts are **no longer swipeable views**. They moved to **Menu → Analysis** (see [Viewing Patterns](viewing-patterns.md#analysis)).
+Charts and ratings charts are **no longer swipeable views**. They moved to **[Menu → Analysis](analysis.md)**.
 
 Small dots at the bottom indicate which swipeable view you're on.
 

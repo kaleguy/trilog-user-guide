@@ -60,7 +60,8 @@ New to TriLog? Start with the [User Guide](guide/index.md).
 - [Single Metric View](guide/single-metric-view.md) — Three weeks at a glance
 - [Notes](guide/notes.md) — Adding context to your data
 - [Day Launch & Day End](guide/day-routines.md) — Morning and evening routines
-- [Viewing Patterns](guide/viewing-patterns.md) — Metrics, Analysis reports, and history
+- [Viewing Patterns](guide/viewing-patterns.md) — Metrics grid and entry history
+- [Analysis](guide/analysis.md) — Patterns, charts, day ratings, and Pro reports (Menu → Analysis)
 - [Habits](guide/habits.md) — Daily habit tracking
 - [Settings](guide/settings.md) — Customization and backup
 - [Pro Features](guide/pro-features.md) — Quick Track, Polling, Screen Time, Intake, Pomodoro, and more

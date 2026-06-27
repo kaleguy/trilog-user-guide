@@ -127,7 +127,7 @@ Screen Time doesn't judge — it just puts the data side by side so patterns bec
 - **Scatter** — plot any factor against energy or mood
 - **Energy by Category** — average energy by workouts, alcohol, day of week, trackers, and more
 
-See [Viewing Patterns — Analysis](viewing-patterns.md#analysis) for screenshots and details.
+See [Analysis](analysis.md) for screenshots and details.
 
 ---
 

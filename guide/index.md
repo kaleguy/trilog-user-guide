@@ -39,7 +39,10 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 ### Reviewing Your Data
 
 - **[Viewing Patterns](viewing-patterns.md)**
-  The Metrics grid, Analysis reports (charts, patterns, day ratings), and entry history. How to see what your data reveals.
+  The Metrics grid and entry history. How to see what your data reveals.
+
+- **[Analysis](analysis.md)**
+  Menu → Analysis: Patterns, Base Chart (pie), Day Ratings, cycle overlays, and Pro advanced reports.
 
 - **[Habits](habits.md)**
   Daily habit tracking and building consistency over time.
