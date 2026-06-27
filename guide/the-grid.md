@@ -67,15 +67,20 @@ TriLog works in both dark and light modes. The app respects your system preferen
 
 ## Other Views
 
-Swipe right from the main grid to access additional views:
+Swipe horizontally from the main grid to access additional **swipeable views**:
 
-- **Metrics Grid** — Daily measurements in rows
-- **Habits** — Daily habit completions
-- **Charts** — Activity distribution and trends
+- **Day Screen** (Pro, optional) — single-day dashboard
+- **Mood Chart** — the main weekly grid (default)
+- **Metrics Grid** — daily measurements in rows
+- **Trackers** (Pro) — custom tracker grid
+- **Habits** — daily habit completions
+- **Screen Time** (Pro) — hourly device usage
 
-Small dots at the bottom indicate which view you're on. Swipe between them or tap a dot to jump directly.
+Charts and ratings charts are **no longer swipeable views**. They moved to **Menu → Analysis** (see [Viewing Patterns](viewing-patterns.md#analysis)).
 
-<img src="../images/app-menu-views.png" alt="Menu views" width="350">
+Small dots at the bottom indicate which swipeable view you're on.
+
+<img src="../images/app-menu.png" alt="TriLog app menu with Analysis entry" width="350">
 
 ## Why This Design?
 

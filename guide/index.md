@@ -39,7 +39,7 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 ### Reviewing Your Data
 
 - **[Viewing Patterns](viewing-patterns.md)**
-  The Metrics grid, Charts view, and entry history. How to see what your data reveals.
+  The Metrics grid, Analysis reports (charts, patterns, day ratings), and entry history. How to see what your data reveals.
 
 - **[Habits](habits.md)**
   Daily habit tracking and building consistency over time.
@@ -79,6 +79,9 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 | Log intake (Pro) | Add (+) → Intake tab, or Day End → Day Intake |
 | Manage intake items | Menu → Extras → Intake Library (Pro) |
 | Review intake history | Menu → Entries → Intake (Pro) |
+| See charts & patterns | Menu → Analysis |
+| Open activity pie chart | Menu → Analysis → Base Chart |
+| See day ratings trends | Menu → Analysis → Day Ratings Chart |
 | Backup your data | Menu → Settings → Backup |
 
 ---

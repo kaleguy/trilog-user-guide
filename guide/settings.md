@@ -22,8 +22,12 @@ Control how TriLog looks and what information displays.
 
 - **Trackers View** — Show/hide the Trackers grid (Pro)
 - **Habits View** — Show/hide the Habits grid
+- **Day Screen** — Show/hide the single-day dashboard (Pro)
+- **Screen Time** — Show/hide the Screen Time swipeable view (Pro)
 
-Toggle off views you don't use to simplify navigation.
+Charts and day-ratings are no longer swipeable views — they live under **Menu → Analysis**. The old Charts/Ratings appearance toggles were removed.
+
+Toggle off swipeable views you don't use to simplify navigation.
 
 ### Resting Heart Rate (Pro, iOS)
 

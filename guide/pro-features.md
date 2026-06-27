@@ -118,6 +118,19 @@ Screen Time doesn't judge — it just puts the data side by side so patterns bec
 
 ---
 
+## Analysis (Advanced, Pro)
+
+**Menu → Analysis** opens a launcher of reports. **Basic** reports (Patterns, Base Chart, Day Ratings, Day Ratings with Cycles) are free. **Advanced** reports require Pro:
+
+- **Correlations** — which factors track with energy and mood
+- **Best vs Worst Days** — what high- and low-energy days have in common
+- **Scatter** — plot any factor against energy or mood
+- **Energy by Category** — average energy by workouts, alcohol, day of week, trackers, and more
+
+See [Viewing Patterns — Analysis](viewing-patterns.md#analysis) for screenshots and details.
+
+---
+
 ## Day View with Sun Clock
 
 Day View shows today's entries alongside an astronomical sun clock visualization. The sun clock displays sunrise, sunset, and the current position of the sun, giving your daily data a natural time context.
