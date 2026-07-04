@@ -85,6 +85,10 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 | See charts & patterns | Menu → Analysis |
 | Open activity pie chart | Menu → Analysis → Base Chart |
 | See day ratings trends | Menu → Analysis → Day Ratings Chart |
+| Pro analysis (Correlations, Scatter, etc.) | Menu → Analysis → Advanced (Pro) |
+| Set tomorrow's goals | Day End → Tomorrow's Quick Plan |
+| Check off today's goals | Day End → Today's Review, or Menu → Tools → Daily Goal Log |
+| See today's goals (read-only) | Day Launch → Today's goals |
 | Backup your data | Menu → Settings → Backup |
 
 ---

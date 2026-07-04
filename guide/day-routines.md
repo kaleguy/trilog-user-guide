@@ -14,18 +14,20 @@ Access it from the Add Entry modal by tapping the "Day Launch" tab.
 
 Day Launch captures detailed sleep information:
 
-- **Sleep Quality** — How well did you sleep? (0-5 scale)
-- **Sleep Onset** — How easily did you fall asleep? (0-5 scale)
-- **Waking Feeling** — How did you feel upon waking? (0-5 scale)
+- **Sleep Quality** — How well did you sleep? (1-5 scale)
+- **Sleep Onset** — How easily did you fall asleep? (1-5 scale)
+- **Waking Feeling** — How did you feel upon waking? (1-5 scale)
 - **Wake-ups** — How many times did you wake during the night?
 - **Sleep Duration** — Total hours and minutes of sleep
 - **Insomnia** — Time spent awake trying to sleep
 
 This creates a sleep record you can correlate with your day's mood and energy. Over time, you'll see how sleep affects how you feel.
 
-### Yesterday's Goals
+### Today's Goals
 
-Day Launch shows the goals you set the previous evening. This creates accountability—you see what you intended to do.
+Day Launch shows **Today's goals** — a read-only list of up to three priorities you set last night in Day End → **Tomorrow's Quick Plan**. You can see what you intended to do, but you cannot edit or check them off here.
+
+To mark goals complete, use Day End → **Today's Review** or **Menu → Tools → Daily Goal Log** (today only). Both stay in sync.
 
 ### Wake Up (Free)
 
@@ -53,7 +55,7 @@ Access it from the Add Entry modal by tapping the "Day End" tab.
 
 <img src="../images/day-end.png" alt="Day End evening routine" width="350">
 
-### Tomorrow's Top Targets
+### Tomorrow's Quick Plan
 
 Set up to three intentions for the next day:
 
@@ -61,7 +63,20 @@ Set up to three intentions for the next day:
 - Task 2: Secondary priority
 - Task 3: Nice to have
 
-These appear in the next morning's Day Launch, creating a feedback loop between planning and doing.
+These are saved on tomorrow's day entry and appear as **Today's goals** in the next morning's Day Launch.
+
+### Today's Review
+
+Check off the goals you set yesterday evening. The same checkboxes appear in **Menu → Tools → Daily Goal Log** for today only — checking in either place updates both.
+
+### Daily Goal Log
+
+**Menu → Tools → Daily Goal Log** is a running history of your top three goals for each day.
+
+- **Today** — interactive checkboxes (synced with Day End → Today's Review)
+- **Past days** — read-only: green ✓ if completed, red ✗ if not, plus a daily score (completed out of total)
+
+Goals can only be *entered* in Day End → Tomorrow's Quick Plan. The log is for completing and reviewing them.
 
 ### Journal
 
@@ -111,14 +126,15 @@ Some people use both every day:
 
 **Morning (Day Launch)**
 1. Record last night's sleep
-2. Review yesterday's goals
+2. Review today's goals (set last night)
 3. Complete morning routine checklist
 
 **Evening (Day End)**
-1. Set tomorrow's goals
-2. Write a brief journal entry
-3. Check off completed habits
-4. Note anything significant
+1. Check off today's goals in Today's Review
+2. Set tomorrow's goals in Tomorrow's Quick Plan
+3. Write a brief journal entry
+4. Check off completed habits
+5. Note anything significant
 
 ### The Minimal Approach
 

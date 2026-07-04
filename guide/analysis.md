@@ -68,12 +68,31 @@ Toggle which ratings appear — e.g. show just **Day Energy** against cycle band
 
 The **Advanced** section unlocks with Pro (or Demo Mode). Locked cards show a PRO badge and route to Upgrade.
 
-- **Correlations** — which factors track with energy and mood (tap a cell to drill into Scatter)
-- **Best vs Worst Days** — what your highest- and lowest-energy days have in common
-- **Scatter** — plot any factor against energy or mood with a trendline
-- **Energy by Category** — average energy by workouts, alcohol, day of week, trackers, and more
+### Correlations
 
-More screenshots for these reports are coming. Each card shows a readiness hint ("Needs more days", "Needs a cy m note") when there isn't enough data yet.
+Heatmap of which factors track with your energy and mood. Tap a cell to drill into a Scatter plot for that pair.
+
+<img src="../images/analysis/correlations.png" alt="Correlations heatmap" width="350">
+
+### Best vs Worst Days
+
+Compares your highest- and lowest-energy days — what they have in common.
+
+<img src="../images/analysis/best-vs-worst-days.png" alt="Best vs Worst Days report" width="350">
+
+### Scatter
+
+Plot any factor against energy or mood with a least-squares trendline and R².
+
+<img src="../images/analysis/scatter.png" alt="Scatter plot with trendline" width="350">
+
+### Energy by Category
+
+Average energy grouped by workouts, alcohol, day of week, your trackers, and more.
+
+<img src="../images/analysis/energy-by-category.png" alt="Energy by Category report" width="350">
+
+Each card shows a readiness hint ("Needs more days", "Needs a cy m note") when there isn't enough data yet.
 
 ---
 
