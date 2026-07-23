@@ -11,8 +11,8 @@ If you skip the onboarding, an alert lets you know you can replay it later from 
 ## Your First Entry
 
 1. **Tap the + button** at the bottom of the screen
-2. **Select your mood** — how are you feeling right now?
-3. **Select your energy** — how's your vitality?
+2. **Tap your mood** — how are you feeling right now?
+3. **Tap the energy slider** — it snaps to a whole number where you touch
 4. **Select your activity** — what are you doing?
 5. **Tap Save**
 
@@ -53,26 +53,24 @@ Most people settle into a pattern within a week. Don't force it—whatever you'l
 
 ## Demo Mode
 
-New to TriLog? Try **Demo Mode** to preview the app — including Pro features — with realistic sample data. Access it from **Menu → About → Try Demo**.
+New to TriLog? Try **Demo Mode** to preview the full app with realistic sample data. Access it from **Menu → About → Try Demo**.
 
 <img src="../images/about-demo.png" alt="Demo mode" width="350">
 
-Demo Mode is **not** the same as the Pro free trial. Demo loads fake entries that are not saved; the trial unlocks real Pro features on your own data when you subscribe.
+Demo Mode is **not** the same as the free trial. Demo loads fake entries that are not saved; the 30-day trial is the full app running on your own data.
 
 Demo Mode shows what a week of tracking looks like, with pre-populated entries across mood, energy, activities, trackers, and habits. An **Exit** button on the demo banner returns you to your real (empty) data.
 
-## Pro Setup (after subscribing)
+## Setup
 
-When you upgrade or restore Pro, a skippable **Pro Setup** wizard opens once automatically. You can also reopen it anytime from **Menu → Extras → Pro Setup**.
+A short, skippable **Setup** wizard helps you turn on the optional pieces. Reopen it anytime from **Menu → Extras → Setup**.
 
-The wizard walks through:
-1. What Pro unlocks
-2. Optional tracker templates (Headache, Focus, Sleep quality, Caffeine, Medication taken, Energy crash)
-3. Quick Track and Polling
-4. View toggles (Trackers, Day Screen, Screen Time)
-5. Other Pro tools (Pomodoro, Siri, Customize, and more)
+It walks through:
+1. **Trackers** — optional templates (Headache, Focus, Sleep Quality, Energy Crash)
+2. **Views & Quick Track** — turn on the Trackers grid, Day View, Screen Time, and Quick Track
+3. Done
 
-Each step can be skipped. Nothing is locked behind completing the wizard.
+Each step can be skipped. Nothing is locked behind completing the wizard — everything can be configured later in Settings and the menu.
 
 ## What's Next
 

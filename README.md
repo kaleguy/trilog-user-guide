@@ -4,7 +4,7 @@
 
 TriLog is a fast personal data logger for subjective experience — mood, energy, focus, symptoms, how your day actually felt. It also pulls in activities, notes, weather, pollen, Apple Health, and more, and puts it all on one dense visual grid: mood, energy, and activities mapped hour by hour, a whole week on one screen. Patterns that would take scrolling to notice elsewhere become obvious at a glance. There are no scores, streaks, or badges—just an honest record that grows more valuable over time.
 
-The core experience — mood, energy, activity, notes, journal, daily routines — is **free forever**. No ads, no accounts, no tracking. Your data lives on your device and (if you choose) your private iCloud. TriLog Pro adds optional power-user features (Trackers, Intake, Apple Health metrics, Quick Track, Pomodoro, Siri voice logging) with a **30-day free trial**, then **$59.99/year** or **$7.99/month** — but never gates the core.
+TriLog is one product — no feature tiers, no ads, no accounts, no tracking. Your data lives on your device and (if you choose) your private iCloud. Everything is free for **30 days**; after that a subscription (**$59.99/year** or **$7.99/month**) keeps logging enabled. If you stop subscribing, your data stays on your phone and the app becomes read-only — you can still browse, search, and export everything.
 
 <img src="images/main-mood-screen.png" alt="TriLog main screen" width="350">
 
@@ -29,7 +29,7 @@ This density is intentional. When subjective experience and external context sha
 TriLog tracks three complementary signals:
 
 - **Mood**: Your emotional state (Happy, Neutral, Sad, Anxious, Upset)
-- **Energy**: Your physical and mental vitality (1-5 scale)
+- **Energy**: Your physical and mental vitality (a 1–5 slider — decimals allowed)
 - **Activity**: What you're doing (Sleep, Work, Exercise, Leisure, etc.)
 
 These aren't meant to capture every nuance of human experience. They're broad categories that become meaningful through repetition and accumulation.

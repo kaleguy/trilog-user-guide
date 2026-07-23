@@ -22,7 +22,7 @@ Each column is a day of the week. You see seven days at once.
 
 ### Customizing the Grid
 
-Tap the settings icon to choose which rows appear:
+Tap the settings icon to open **Visible Rows** and choose which rows appear. Each row shows its grid icon and a toggle — Thrive, Mood, Wellness, Energy, sleep metrics, weather, activities, Focus Timer, and more.
 
 <img src="../images/metrics-visible-rows-modal.png" alt="Metrics visible rows" width="350">
 

@@ -16,22 +16,23 @@ Control how TriLog looks and what information displays.
 - **Steps Count** — Display daily steps in the header
 - **Calorie Count** — Show daily calorie total in the header
 - **Mood Icons** — Display mood emoji on the chart
+- **Energy Half Steps** — Let the energy slider snap to halves (3.5) instead of whole numbers
 - **View Indicator Dots** — Show navigation dots between views
 
 ### View Toggles
 
-- **Trackers View** — Show/hide the Trackers grid (Pro)
+- **Trackers View** — Show/hide the Trackers grid
 - **Habits View** — Show/hide the Habits grid
-- **Day Screen** — Show/hide the single-day dashboard (Pro)
-- **Screen Time** — Show/hide the Screen Time swipeable view (Pro)
+- **Day View** — Show/hide the single-day view (today's track + sun clock)
+- **Screen Time View** — Show/hide the Screen Time swipeable view
 
 Charts and day-ratings are no longer swipeable views — they live under **Menu → Analysis**. The old Charts/Ratings appearance toggles were removed.
 
 Toggle off swipeable views you don't use to simplify navigation.
 
-### Resting Heart Rate (Pro, iOS)
+### HealthKit (iOS)
 
-If you have an Apple Watch, enable this to display resting heart rate in Day End and the Metrics grid.
+The **HealthKit** section holds per-metric toggles for what TriLog reads from Apple Health: Resting Heart Rate, Heart Rate Variability, Sleep Duration, Deep Sleep, REM Sleep, Steps, and calories. Enabled metrics are captured at Day End and shown in the Metrics grid.
 
 ## Theme
 
@@ -53,12 +54,13 @@ Your data is stored locally on your device. Backup ensures you don't lose it.
 
 Enable iCloud backup to automatically sync your data to Apple's cloud. This also syncs between devices signed into the same Apple ID.
 
-### Export Database
+### Exports
 
-Download your entire database as a file. Useful for:
-- Manual backups
-- Transferring to a new device
-- Keeping a personal archive
+From **Settings → Backup & Restore** you can export:
+
+- **CSV** — entries, daily summary, or tracker values, for Excel, Google Sheets, or AI analysis
+- **Journal export** — a ZIP with your journal entries, photos, and a self-contained HTML viewer
+- **Database + Photos Bundle** — your full SQLite database plus photos, readable by the free [desktop viewer](https://trilog.app/viewer.html)
 
 ### Google Sheets Export
 
@@ -82,7 +84,7 @@ If you've purchased Pro on another device, use this to restore your purchase.
 
 ## Scheduling
 
-Set reminders at specific times of day to check in and log your mood. Access Scheduling from Menu → Extras → Scheduling (···).
+Set reminders at specific times of day to check in and log your mood. Access Scheduling from Menu → Tools → Scheduling.
 
 <img src="../images/scheduling.png" alt="Scheduling reminders" width="350">
 
@@ -92,16 +94,18 @@ This is a straightforward way to build a consistent logging habit. Set the times
 
 The About dialog (Menu → About) shows version information and includes a **"Replay Onboarding"** button. Tap it to re-experience the introductory walkthrough and guided demo at any time.
 
-## Pro
+## Subscription
 
-Access Pro features and subscription management from **Settings → Account** or **Menu → Upgrade to Pro**.
+TriLog is one product with a 30-day free trial. Subscribe from the **Settings** screen.
 
-- **Annual** — $59.99/year after 30-day free trial
-- **Monthly** — $7.99/month after 30-day free trial
+- **Annual** — $59.99/year after the 30-day free trial
+- **Monthly** — $7.99/month after the 30-day free trial
 - **Restore Purchases** — if you subscribed on another device
-- **Pro Setup** — Menu → Extras → Pro Setup (guided tracker and view setup)
+- **Setup** — Menu → Extras → Setup (guided tracker and view setup)
 
-See [Pro Features](pro-features.md) for details on what Pro includes.
+If you stop subscribing, your data stays on your phone and the app becomes read-only — browsing, search, and export keep working.
+
+See [Pro Features](pro-features.md) for a tour of what's included.
 
 ---
 
@@ -119,10 +123,11 @@ See [Pro Features](pro-features.md) for details on what Pro includes.
 | View Dots | Appearance | Navigation indicators |
 | Trackers View | Appearance | Grid view toggle |
 | Habits View | Appearance | Grid view toggle |
-| Heart Rate | Appearance | RHR display (Pro) |
+| Health metrics | HealthKit | RHR, HRV, sleep, steps |
+| Energy Half Steps | Appearance | Slider snaps to halves |
 | iCloud Backup | Backup | Automatic backup |
 | Export | Backup | Manual backup |
-| Scheduling | Extras | Check-in reminders |
+| Scheduling | Tools | Check-in reminders |
 | Replay Onboarding | About | Re-run onboarding walkthrough |
 
 ---

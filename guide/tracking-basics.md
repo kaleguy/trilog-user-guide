@@ -20,13 +20,15 @@ These categories are deliberately broad. They're not meant to capture every nuan
 
 ## Energy
 
-Energy is your sense of physical and mental vitality. Five levels, from depleted to charged:
+Energy is your sense of physical and mental vitality, set on a continuous slider from 1 to 5:
 
 1. **Very Low** — Exhausted, depleted, running on empty
 2. **Low** — Tired, sluggish, dragging
 3. **Moderate** — Neither tired nor energized
 4. **High** — Alert, capable, functioning well
 5. **Very High** — Energized, sharp, fully charged
+
+The slider starts unset — tap it and the thumb drops where you touched, snapping to a whole number (or halves, if you enable **Energy Half Steps** in Settings → Appearance). At Day End the slider is more reflective: a tap snaps to halves, and dragging unlocks 0.1 precision, so a day can be a 3.7.
 
 Energy is separate from mood. You can be happy but exhausted after a great party. You can be energized but anxious before a presentation. Tracking both reveals interesting patterns.
 
@@ -43,8 +45,8 @@ Activity records what you're doing. Categories include:
 - **Leisure** — Relaxation, hobbies, entertainment
 - **Socialize** — Time with friends, family, social events
 - **Transit** — Commuting, traveling
-- **Morning Routine** — Morning activities and preparation
-- **Recovery** — Rest, recuperation
+- **Morning Routine** — Morning activities and preparation (logged from Day Launch)
+- **Recovery** — Rest, recuperation (logged from Day Launch)
 - **Other** — Anything else
 
 When you switch activities, log the new one. The previous activity extends until the new entry.
@@ -75,7 +77,7 @@ Forgot to log earlier? Tap the time display in the add entry screen to change wh
 
 **Don't aim for perfection.** Missing entries is fine. Rough estimates are fine. The goal is trend visibility, not precision.
 
-**Trust your first instinct.** Deliberating between "3" and "4" energy wastes time. Pick one and move on.
+**Trust your first instinct.** Deliberating between a 3 and a 4 wastes time. Drop the slider and move on.
 
 **Log even on normal days.** Boring, average days establish your baseline. They're as valuable as dramatic ones.
 

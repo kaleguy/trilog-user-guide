@@ -14,7 +14,7 @@ Access Habits from Menu → Extras → Habits.
 2. Enter the habit name (e.g., "Morning meditation")
 3. Save
 
-The habit now appears in your daily checklist.
+The habit now appears in your daily checklist. Each habit row also has an **Active** switch — flip it off to hide the habit from the grid and Day End without deleting its history.
 
 ### Example Habits
 

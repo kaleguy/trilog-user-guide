@@ -42,7 +42,7 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
   The Metrics grid and entry history. How to see what your data reveals.
 
 - **[Analysis](analysis.md)**
-  Menu → Analysis: Patterns, Base Chart (pie), Day Ratings, cycle overlays, and Pro advanced reports.
+  Menu → Analysis: Patterns, Base Chart, Day Ratings, cycle and intake overlays, and advanced reports.
 
 - **[Habits](habits.md)**
   Daily habit tracking and building consistency over time.
@@ -55,10 +55,10 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 ### Pro Features
 
 - **[Pro Features](pro-features.md)**
-  Quick Track, Polling, Screen Time, Intake, Pomodoro timer, Custom Trackers, and more.
+  Quick Track, Polling, Screen Time, Intake, Focus Timer, Custom Trackers, Day View, and more.
 
-- **[Intake](intake.md)** (Pro)
-  Log caffeine, supplements, medications, and more with structured amounts. Intake Library, Add dialog tab, Day End section, and entry history.
+- **[Intake](intake.md)**
+  Log caffeine, supplements, medications, hydration, and more with structured amounts. Intake Library, Add dialog tab, Day End section, and entry history.
 
 ### Philosophy
 
@@ -77,19 +77,20 @@ Welcome to TriLog. This guide covers everything from basic tracking to advanced 
 | See metrics grid | Swipe right from the main chart |
 | Access settings | Menu → Settings |
 | Set up habits | Menu → Extras → Habits |
-| Set check-in reminders | Menu → Extras → Scheduling |
-| Set up Pro trackers | Menu → Extras → Pro Setup (Pro) |
-| Log intake (Pro) | Add (+) → Intake tab, or Day End → Day Intake |
-| Manage intake items | Menu → Extras → Intake Library (Pro) |
-| Review intake history | Menu → Entries → Intake (Pro) |
+| Set check-in reminders | Menu → Tools → Scheduling |
+| Run guided setup (tracker templates, views) | Menu → Extras → Setup |
+| Log intake | Add (+) → Intake tab, or Day End → Day Intake |
+| Manage intake items | Menu → Extras → Intake |
+| Review intake history | Menu → Entries → Intake |
 | See charts & patterns | Menu → Analysis |
 | Open activity pie chart | Menu → Analysis → Base Chart |
 | See day ratings trends | Menu → Analysis → Day Ratings Chart |
-| Pro analysis (Correlations, Scatter, etc.) | Menu → Analysis → Advanced (Pro) |
+| Open the Focus Timer | Menu → Tools → Focus Timer, or the brain icon in Quick Track |
+| Advanced analysis (Correlations, Scatter, etc.) | Menu → Analysis → Advanced |
 | Set tomorrow's goals | Day End → Tomorrow's Quick Plan |
 | Check off today's goals | Day End → Today's Review, or Menu → Tools → Daily Goal Log |
 | See today's goals (read-only) | Day Launch → Today's goals |
-| Backup your data | Menu → Settings → Backup |
+| Backup your data | Menu → Settings → Backup & Restore |
 
 ---
 

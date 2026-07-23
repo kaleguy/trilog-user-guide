@@ -29,15 +29,15 @@ Day Launch shows **Today's goals** — a read-only list of up to three prioritie
 
 To mark goals complete, use Day End → **Today's Review** or **Menu → Tools → Daily Goal Log** (today only). Both stay in sync.
 
-### Wake Up (Free)
+### Wake Up
 
 A single-tap **Wake Up** button on Day Launch logs an "Other" activity at the current time. Use it as the morning bookend that pairs with **Log Sleep** at Day End — together they anchor your day so the chart shows a clean sleep → awake transition without you having to dig into the Add dialog.
 
 The button auto-disables once any non-sleep activity is logged that day (so you know wake-up is already marked).
 
-### Morning Routine (Pro)
+### Morning Routine
 
-Pro users can set up a morning routine checklist. Common items:
+You can set up a morning routine checklist. Common items:
 - Make bed
 - Meditate
 - Exercise
@@ -94,25 +94,25 @@ If you've set up daily habits, Day End shows them as checkboxes. Check off what 
 
 Day End can include wellness assessments—simple ratings of how various aspects of life are going. Configure these in Settings.
 
-### Resting Heart Rate (Pro, iOS)
+### Apple Health Metrics (iOS)
 
-If you have an Apple Watch or compatible device, Day End can display your resting heart rate. This metric often correlates with recovery, stress, and overall health.
+If you have an Apple Watch or compatible device, Day End can capture Apple Health metrics onto the day — resting heart rate, heart rate variability (HRV), 7-day average body weight, and sleep metrics. Each is saved when you complete Day End for today and appears in the Metrics grid.
 
-Enable in Settings → Appearance → Resting Heart Rate.
+Enable each metric in Settings → HealthKit.
 
-### Day Trackers (Pro)
+### Day Trackers
 
-If you've enabled the Trackers feature, the Day-End view shows a **Day Trackers** section listing each of your day trackers (mood ratings, traffic-light symptoms, on/off flags, etc.). Tap a row to set or update today's value — the editor matches the tracker's type (0–5 picker, red/yellow/green picker, on/off toggle).
+If you've enabled the Trackers feature, the Day-End view shows a **Day Trackers** section listing each of your day trackers (mood ratings, traffic-light symptoms, on/off flags, etc.). Tap a row to set or update today's value — the editor matches the tracker's type (1–5 rating slider, red/yellow/green picker, on/off toggle).
 
 One entry per day max; saving replaces that day's value. See [Trackers](pro-features.md#trackers) for full details.
 
-### Day Intake (Pro)
+### Day Intake
 
 When **Intake Tab on Add** is enabled in Settings, Day End also shows a **Day Intake** section in the same card as Day Trackers. Log caffeine, vitamins, medications, water, and other consumables with structured amounts — separate from freeform notes or tracker shorthand.
 
 <img src="../images/day-end-with-intake.png" alt="Day End with Day Trackers and Day Intake" width="350">
 
-Pick an item from your Intake Library, set the quantity, and save. Today's logged intake appears in the section so you can review or delete entries. You can also log from the Add dialog's **Intake** tab anytime during the day.
+Pick an item from your Intake Library, set the time and quantity (the stepper moves by the item's serving size), and save. Today's logged intake appears in the section so you can review or delete entries. You can also log from the Add dialog's **Intake** tab anytime during the day.
 
 See [Intake](intake.md) for the full library setup, logging flow, and how intake differs from event trackers.
 

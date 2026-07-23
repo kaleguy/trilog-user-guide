@@ -6,11 +6,11 @@ Charts, auto-detected patterns, and analytical reports live in **Menu → Analys
 
 <img src="../images/analysis/analysis.png" alt="Analysis launcher with Basic and Advanced reports" width="350">
 
-The launcher lists reports as cards under **Basic** (free) and **Advanced** (Pro). Tap a card to open it; use the back arrow to return to the launcher.
+The launcher lists reports as cards under **Basic** and **Advanced**. Tap a card to open it; use the back arrow to return to the launcher.
 
 ---
 
-## Patterns (Basic, free)
+## Patterns (Basic)
 
 Auto-detected findings from your mood and energy history — weekly rhythms, time-of-day energy dips, mood/energy coupling, and similar. Surfaces after you have enough data; each finding is a card with a plain-language explanation.
 
@@ -18,17 +18,17 @@ Auto-detected findings from your mood and energy history — weekly rhythms, tim
 
 ---
 
-## Base Chart (Basic, free)
+## Base Chart (Basic)
 
 Activity distribution and trends over time — stacked bar chart, mood/energy lines, and a **pie chart** showing how your hours actually divided across activities.
 
-<img src="../images/analysis/base-pie-chart.png" alt="Base Chart pie view of activity breakdown" width="350">
+<img src="../images/analysis/base-pie-chart.png" alt="Base Chart — stacked activity bars with the energy line" width="350">
 
-Toggle between bar and pie modes. Switch between **7-day** and **21-day** windows (or navigate by week).
+Toggle between bar, line, and pie modes. Switch between **7-day** and **21-day** windows (or navigate by week).
 
 ---
 
-## Day Ratings Chart (Basic, free)
+## Day Ratings Chart (Basic)
 
 Your daily subjective ratings — Mood, Energy, Thrive, and a calculated **Energy Events** score — as two side-by-side line charts, each covering four weeks (28 days, Sunday to Saturday).
 
@@ -45,14 +45,14 @@ Your daily subjective ratings — Mood, Energy, Thrive, and a calculated **Energ
 Tap a day for a tooltip with Energy, Thrive, and Energy Events. **View Notes** jumps to that day's notes. Use the arrows at the top to move back and forward by four weeks.
 
 <p align="center">
-  <img src="../images/analysis/day-ratings-with-cycles.png" alt="Day Ratings Chart with Mood, Energy, Thrive, and Energy Events enabled" width="860">
+  <img src="../images/analysis/day-ratings-with-cycles.png" alt="Day Ratings Chart with Energy and Thrive enabled, 21 days" width="860">
 </p>
 
-The Energy Events score is also available as a row in the Metrics Grid (off by default). Enable it in the grid wrench → Measurements.
+The Energy Events score is also available as a row in the Metrics Grid (off by default, labeled **E. Score**). Enable it in the grid's **Visible Rows** settings.
 
 ---
 
-## Day Ratings with Cycles (Basic, free)
+## Day Ratings with Cycles (Basic)
 
 The same Day Ratings chart with your **menstrual cycle** overlaid as colored bands (requires cycle tracking — log with `cy m` / `cy -m` prefixes or Menu → Extras → Cycles). Useful for spotting energy and mood shifts across your cycle.
 
@@ -64,9 +64,19 @@ Toggle which ratings appear — e.g. show just **Day Energy** against cycle band
 
 ---
 
-## Advanced reports (Pro)
+## Day Ratings with Intake (Basic)
 
-The **Advanced** section unlocks with Pro (or Demo Mode). Locked cards show a PRO badge and route to Upgrade.
+The Day Ratings chart with one **intake item** charted below it — coffee, meds, alcohol, water. Both cover the same 28-day window, so you can eyeball whether an intake lines up with energy or mood shifts. Pick the intake category from the selector.
+
+<p align="center">
+  <img src="../images/analysis/day-ratings-with-intake.png" alt="Day Ratings with Intake — ratings above, one intake item charted below" width="860">
+</p>
+
+---
+
+## Advanced reports
+
+The **Advanced** section holds the deeper statistical reports.
 
 ### Correlations
 

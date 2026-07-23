@@ -69,12 +69,12 @@ TriLog works in both dark and light modes. The app respects your system preferen
 
 Swipe horizontally from the main grid to access additional **swipeable views**:
 
-- **Day Screen** (Pro, optional) — single-day dashboard
+- **Day View** (optional) — today's track beside a sun clock; the background changes with daylight, and tapping the sun opens a day info page (weather, pollen, and other context)
 - **Mood Chart** — the main weekly grid (default)
 - **Metrics Grid** — daily measurements in rows
-- **Trackers** (Pro) — custom tracker grid
+- **Trackers** (optional) — custom tracker grid and chart
 - **Habits** — daily habit completions
-- **Screen Time** (Pro) — hourly device usage
+- **Screen Time** (optional) — hourly device usage
 
 Charts and ratings charts are **no longer swipeable views**. They moved to **[Menu → Analysis](analysis.md)**.
 
